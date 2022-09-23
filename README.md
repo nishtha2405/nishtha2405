@@ -5,12 +5,13 @@
 </div>
 
 
-I'm a Sophomore at AKGEC, Ghaziabad.
+I'm in my junior year at AKGEC, Ghaziabad.
 
  -   Pronouns: She/her 🙋🏻‍♀️
- -   A Machine Learning Enthusiast
- - 🔭 Currently working on my Coding Skills
- -   I am looking for help with Competitive Coding
+ -   A Machine Learning Enthusiast.
+ - 🔭 Currently working on my Coding Skills.
+ -   I am looking for help with DSA.
+ -   Looking for opportunities where i can utilise my current skills and can learn more from the people i work with. 
  - 📫 How to reach me: pandeynishtha03@gmail.com
 
 
