@@ -29,19 +29,11 @@ I'm in my junior year at AKGEC, Ghaziabad.
 <br>
 </p>
 
-## &#x1f4c8; ⚡️GitHub Stats
-<a href="https://github.com/nishtha2405">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha2405&hide=java,html&theme=onedark" />
-</a>
+## ⚡️GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=nishtha2405&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nishtha2405&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha2405&theme=radical&hide=makefile&&count_private=true&layout=compact&show_icons=true)
 <br><br>
-<a href="https://github.com/nishtha2405">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nishtha2405&theme=onedark&count_private=true" alt="Nishtha's GitHub Stats" />
-</a>
-
-## Some Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishtha2405&theme=black-ice)](https://git.io/streak-stats)
-
 
 ![Nishtha's github activity graph](https://activity-graph.herokuapp.com/graph?username=nishtha2405&theme=react-dark&hide_border=true&area=true)
 
@@ -56,6 +48,7 @@ Have something cool to share? Connect with me on \
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say a <b>Hi!, I'll be happy to get to know you more!</b> :)</em>
 </div>
+
 
 
 
