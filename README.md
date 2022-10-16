@@ -5,10 +5,10 @@
 </div>
 
 
-I'm in my junior year at AKGEC, Ghaziabad.
+I am a pre-final year CSE undergrad student at AKGEC, Ghaziabad.
 
  -   Pronouns: She/her 🙋🏻‍♀️
- -   A Machine Learning Enthusiast.
+ -   A Machine Learning and Research Enthusiast.
  - 🔭 Currently working on my Coding Skills.
  -   I am looking for help with DSA.
  -   Looking for opportunities where i can utilise my current skills and can learn more from the people i work with. 
