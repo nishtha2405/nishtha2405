@@ -45,6 +45,8 @@ I am a pre-final year CSE undergrad student at AKGEC, Ghaziabad.
 |-------------|-------------------|---|---|---|---|:-:|
 | [**HackFest**](https://github.com/nishtha2405/HackFest) | [![GitHub Stars](https://img.shields.io/github/stars/nishtha2405/HackFest?style=flat-square&labelColor=343b41)](https://github.com/nishtha2405/HackFest/stars) | [![GitHub Forks](https://img.shields.io/github/forks/nishtha2405/HackFest?style=flat-square&labelColor=343b41)](https://github.com/nishtha2405/forks) | [![GitHub Issues](https://img.shields.io/github/issues/nishtha2405/HackFest?style=flat-square)](https://github.com/nishtha2405/HackFest/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/nishtha2405/HackFest?style=flat&logo=github)](https://github.com/nishtha2405/HackFest/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/nishtha2405/HackFest?style=flat&color=critical&logo=github)](https://github.com/nishtha2405/HackFest/pulls?q=is%3Apr+is%3Aclosed) | [**HacktoberFest'22**](https://hacktoberfest.com/)
 
+#
+
 Have something cool to share? Connect with me on \
 \
 <a href="https://twitter.com/nisshthap" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="nisshthap" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
@@ -56,8 +58,7 @@ Have something cool to share? Connect with me on \
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say a <b>Hi!, I'll be happy to get to know you more!</b> :)</em>
 </div>
 
-
-
+#
 
 Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/nishtha2405/count.svg) people to checkout my profile :heart:
 
