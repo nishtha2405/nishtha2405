@@ -1,5 +1,5 @@
 <div align="center">
-<h1>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h1>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 /> ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h2 align="center"> It's <a  href="https://www.linkedin.com/in/nishtha-pandey-4370251bb/"> Nishtha Pandey</a></h2>
 <br>
 </div>
@@ -11,7 +11,7 @@ I am a pre-final year CSE undergrad student at AKGEC, Ghaziabad.
  -   A Machine Learning and Research Enthusiast.
  - 🔭 Currently working on my Coding Skills.
  -   I am looking for help with DSA.
- -   Looking for opportunities where i can utilise my current skills and can learn more from the people i work with. 
+ -   Looking for opportunities where I can utilise my current skills and can learn more from the people i work with. 
  - 📫 How to reach me: pandeynishtha03@gmail.com
 
 
