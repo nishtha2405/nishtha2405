@@ -34,7 +34,7 @@ I am a pre-final year CSE undergrad student at AKGEC, Ghaziabad.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha2405&theme=radical&hide=makefile&&count_private=true&layout=compact&show_icons=true)
 <br><br>
 
-![Nishtha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishtha2405&theme=react)](https://github.com/nishtha2405/github-readme-activity-graph)
+![Nishtha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishtha2405&theme=react)
 
 **Open Source Projects-Open for Contributions🥇**<br>
 
