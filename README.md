@@ -4,14 +4,15 @@
 <br>
 </div>
 
-
-I am a pre-final year CSE undergrad student at AKGEC, Ghaziabad.
-
- -   Pronouns: She/her 🙋🏻‍♀️
- -   A Machine Learning and Research Enthusiast.
- -   Currently working on GenAI.
- -   Looking for opportunities where I can utilise my current skills and can learn more from the people i work with. 
- -   How to reach me: pandeynishtha03@gmail.com
+   - 🙋🏻‍♀️ Pronouns: She/Her  
+   
+   - 💻 Passionate about all things tech
+      
+   - 🌱 Currently working on becoming the best version of myself
+     
+   - 🎯 Seeking opportunities to apply my skills while learning from amazing people
+       
+   - 📱 How to reach me: pandeynishtha03@gmail.com
 
 
 <h3 align="center">🛠 My Tech Stack</h3>
@@ -59,5 +60,5 @@ Have something cool to share? Connect with me on \
 
 #
 
-Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/nishtha2405/count.svg) people to checkout my profile :heart:
+Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/nishtha2405/count.svg) people to check out my profile :heart:
 
