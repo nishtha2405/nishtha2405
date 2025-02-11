@@ -39,11 +39,11 @@
 
 <h3 align="center">⚡ GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishtha2405&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishtha2405&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true&cache_seconds=86400"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishtha2405&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishtha2405&theme=radical&cache_seconds=86400"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha2405&theme=radical&hide=makefile&count_private=true&layout=compact&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha2405&theme=radical&hide=makefile&count_private=true&layout=compact&show_icons=true&cache_seconds=86400"/>
 </p>
 
 
